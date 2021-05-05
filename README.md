@@ -2,7 +2,8 @@
 This is a mini webdev project for absolute beginners to have hands-on experience working with CSS and Javascript.
  
  ## ABOUT 🖥️
-     The project is about building blurry loading page. The loading value goes from 0 to 100% with image coming into focus.
+ The project is about building blurry loading page. The loading value goes from 0 to 100% with image coming into focus.
+ 
   ---
   
   ### PREVIEW ❤️
